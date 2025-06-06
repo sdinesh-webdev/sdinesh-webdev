@@ -1,7 +1,8 @@
 
 <div align="center">
+  
+![readme (1)-Picsart-AiImageEnhancer-min](https://github.com/user-attachments/assets/1db29422-45fc-4222-a8b5-8904c54d25f7)
 
-![readme](https://github.com/user-attachments/assets/bb06d2d3-8a50-40b0-ac1c-e16f253b8e1b)
 
 📈 GITHUB STATS
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sdinesh-webdev&show_icons=true&theme=tokyonight" alt="Dinesh Kumar's GitHub Stats" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sdinesh-webdev&theme=tokyonight" alt="Dinesh Kumar's GitHub Streak" /> </div> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdinesh-webdev&layout=compact&theme=tokyonight" alt="Top Languages" /> </div>
