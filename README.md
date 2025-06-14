@@ -1,7 +1,7 @@
 
 <div align="center">
 
-[![My SVG](https://oabk6vpcyt3tfpux.public.blob.vercel-storage.com/readme%20%281%29-gXBKxE31dkhoeCLKbngJm8ksFYjEoA.svg)](https://sdineshkumar.vercel.app/)
+[![My SVG](https://oabk6vpcyt3tfpux.public.blob.vercel-storage.com/readme%20%282%29-gZ0LK23WQLCQpazH3ozXNCM6qlaQCy.svg)](https://sdineshkumar.vercel.app/)
 
 
 📈 GITHUB STATS
